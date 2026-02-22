@@ -96,8 +96,8 @@
 
 | 학년/학기 | 기존 과목명 | 교과목 (학점) | 주요 학습 내용 | 습득 기술 | 기술 | 실습과제(예) |
 |------------|------------|----------------|----------------|------------|--------|----------------|
-| 1학년 1학기 | 파이썬프로그래밍(3) | 파이썬 프로그래밍 (3) | 기초 문법 습득 및 데이터 사고력 배양 | 웹 크롤링(정적/동적), API 활용, SQLite CRUD, | Python, Pandas, Matplotlib | 나만의 가계부 데이터 분석기 |
-| 1학년 2학기 | 애플리케이션배포(3) | 빅데이터 프로그래밍 (3) | 데이터 수집→DB 저장→웹 서비스 구현 파이프라인 이해 | Data Wrangling, Client-Server/API 크롤링, SQLite3, Streamlit/Gradio, | Selenium, SQLite, FastAPI, Streamlit | 실시간 뉴스 키워드 알림 보드, 데이터 ETL 파이프라인 개발 |
+| 1학년 1학기 | 파이썬프로그래밍(3) | 파이썬 프로그래밍 (3) | 기초 문법 습득 및 데이터 사고력 배양 | Python Syntax, Module, OOP, API 활용, | Python, Matplotlib | 나만의 가계부 데이터 분석기 |
+| 1학년 2학기 | 애플리케이션배포(3) | 빅데이터 프로그래밍 (3) | 데이터 수집→DB 저장→웹 서비스 구현 파이프라인 이해 | Data Wrangling, 웹 크롤링(정적/동적), SQLite3, Streamlit/Gradio, | Selenium, SQLite, FastAPI, Streamlit | 실시간 뉴스 키워드 알림 보드, 데이터 ETL 파이프라인 개발 |
 | 2학년 1학기 | AI프로그래밍(3) | 빅데이터 수학 (3) | ML/DL 기초 수학 원리 이해 및 코드 구현 | 선형대수, 확률과 통계, 미분 | NumPy, SciPy, Linear Algebra | NumPy로 만드는 손글씨 분류기 |
 | 2학년 1학기 | AI데이터분석실습(3) | 데이터 분석 및 머신러닝 (3) | EDA 및 지도학습 기반 예측 모델 개발 | 데이터 전처리, BI 시각화, 회귀/분류 및 평가 | Tableau, Scikit-learn, Feature Eng. | 쇼핑몰 고객 이탈 예측 리포트 |
 | 2학년 2학기 | 데이터기반AI실무(3) | 딥러닝 기초 및 컴퓨터 비전 (3) | 신경망 및 CNN 이해, 이미지 AI 서비스 개발, Fast API/Streamlit 배포 | ANN, 역전파, CNN, 전이학습, 모델 배포 | PyTorch/TensorFlow, OpenCV | 나와 닮은 꼴 연예인 찾기 |
